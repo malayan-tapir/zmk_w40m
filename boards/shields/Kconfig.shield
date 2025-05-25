@@ -1,2 +1,0 @@
-config SHIELD_W40M
-  def_bool $(shields_list_contains,w40m)

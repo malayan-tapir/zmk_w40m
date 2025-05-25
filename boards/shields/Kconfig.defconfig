@@ -1,4 +1,0 @@
-if SHIELD_W40M
-  config ZMK_KEYBOARD_NAME
-  default "w40m"
-endif
